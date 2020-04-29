@@ -579,3 +579,23 @@ https://explodie.org:6969/announce
 udp://p4p.arenabg.com:1337
 
 udp://tracker.internetwarriors.net:1337
+
+http://tracker.trackerfix.com/announce1156360
+
+http://tracker.nwps.ws:6969/announce5520
+
+udp://tracker.publicbt.com/announce00
+
+udp://tracker.openbittorrent.com/announce00
+
+udp://tracker.istole.it/announce00
+
+udp://pow7.com/announce00
+
+udp://open.demonii.com:1337/announce00
+
+udp://coppersurfer.tk:6969/announce00
+
+udp://9.rarbg.com:2710/announce00
+
+udp://12.rarbg.me/announce
