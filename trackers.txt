@@ -575,3 +575,7 @@ https://gwp2-v19.rinet.ru:80/announce
 https://tr.kxmp.cf:80/announce
 
 https://explodie.org:6969/announce
+
+udp://p4p.arenabg.com:1337
+
+udp://tracker.internetwarriors.net:1337
